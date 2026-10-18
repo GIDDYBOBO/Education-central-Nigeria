@@ -1,0 +1,6 @@
+{
+  "name": "EduCentral Nigeria - Centralized School & Academic Records System",
+  "description": "Unified, encrypted national academic records portal and directory for Nigerian primary, secondary, and tertiary institutions with verified student transcripts, state filtering, achievements, and bioscience research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
